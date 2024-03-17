@@ -4,7 +4,7 @@ Através de uma interface simples e funcional, é possível filtrar e visualizar
 ##
 
 <div>
-    <img src="./assets/Dash_Pub.png" height="200" width="350"/>
+    <img src="./assets/Dash_Pub.png" height="400" width="750"/>
 </div>
 
 ##
