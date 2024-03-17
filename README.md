@@ -1,4 +1,4 @@
-Painel com gráficos dinâmicos dos dados obtidos como resultado do projeto gravado no repositório: [API_Publica_DataJUD] (https://github.com/gigateo/API_Publica_DataJUD). 
+Painel com gráficos dinâmicos dos dados obtidos como resultado do projeto gravado no repositório: [API_Publica_DataJUD](https://github.com/gigateo/API_Publica_DataJUD) . 
 
 Através de uma interface simples e funcional, é possível filtrar e visualizar sob várias perspectivas, além de gerar uma nova planilha contendo apenas os dados que foram filtrados. 
 ##
